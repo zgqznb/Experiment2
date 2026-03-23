@@ -1,12 +1,18 @@
 # CG-Lab
 
-本项目为计算机图形学实验一作业，实现了基于 Taichi 的万有引力粒子群仿真，并采用 `src` 布局组织代码。
+本项目为计算机图形学实验二作业，实现了三角形及立方体旋转。
+
+## 运行效果
+
+![video](video.gif)
+
 
 ## 项目结构
 
 ```text
 CG-Lab/
 ├─ README.md
+├─ video.gif
 └─ src/
    └─ Work0/
       ├─ __init__.py
